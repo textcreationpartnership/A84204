@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact narrative of every dayes proceedings since the insurrection in Essex. Together with a more perfect list of what persons are slain and taken by both parties, till the 18 of June present, 1648. Also the resolution of the Councell of War concerning the manner of punishing the prisoners they have taken in that county.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84204</idno>
+            <idno type="STC">Wing E3663</idno>
+            <idno type="STC">Thomason E448_18</idno>
+            <idno type="EEBO-CITATION">99862424</idno>
+            <idno type="PROQUEST">99862424</idno>
+            <idno type="VID">161838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161838)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E448[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact narrative of every dayes proceedings since the insurrection in Essex. Together with a more perfect list of what persons are slain and taken by both parties, till the 18 of June present, 1648. Also the resolution of the Councell of War concerning the manner of punishing the prisoners they have taken in that county.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock at the Kings Head in Pauls Church-yard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>June 20 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Essex (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161838:1" rendition="simple:additions"/>
+            <p>An exact Narrative OF Every dayes Proceedings <hi>Since the</hi> Inſurrection in <hi>ESSEX.</hi>
+            </p>
+            <p>Together with a more perfect <hi>Liſt</hi> of what perſons are ſlain and taken by both parties, till the 18 of <hi>June</hi> preſent, 1648.</p>
+            <p>Alſo the Reſolution of the Councell of War concerning the manner of puniſhing the Priſoners they have taken in that County.</p>
+            <p>Printed for <hi>Robert Boſtock</hi> at the Kings Head in <hi>Pauls</hi> Church-yard, <hi>June</hi> 20 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161838:2"/>
+            <pb n="3" facs="tcp:161838:2" rendition="simple:additions"/>
+            <head>An exact Narrative of every dayes Proceedings ſince the Inſurrection in Eſſex. Together with a more perfect liſt of what Perſons are ſlain and taken by both Parties.</head>
+            <p>DIvers Gentlemen of the Committee for the County of <hi>Eſſex,</hi> whereof ſome were Parliament men, being met toge<g ref="char:EOLhyphen"/>ther at <hi>Chelmsford,</hi> to provide for the peace of the County, and to prevent the apparent dangers likely to ariſe, were ſurpriſed in the Committee-Chamber by a rabble of Mu<g ref="char:EOLhyphen"/>tineers commanded by Lieutenant Colonell <hi>Farre,</hi> and his Major <hi>Smith;</hi> which being done, they ſent to the Lord <hi>Goring,</hi> then about Bow-bridge, who came ſpeedily to them. The Committee being thus ſurprized, the Malignants were ſo imboldened, that the Mutineers grew very numerous, and joyned with <hi>Goring,</hi> and Sir <hi>Charles Lucas,</hi> Lord <hi>Capell,</hi> and others: They ſtaid together at <hi>Chelmsford</hi> four or five dayes, and much encreaſed by the reſort of the trained ſouldiers from divers parts of the County: But the good providence of God ſo ordered it, That Sir <hi>Thomas Honywood,</hi> Colonel <hi>Harlukendon,</hi> Colo<g ref="char:EOLhyphen"/>nell
+<pb n="4" facs="tcp:161838:3"/>
+               <hi>Cook,</hi> Colonell <hi>Sparrow,</hi> and ſome others were abſent from <hi>Chelmsford</hi> when the Committee did meet; theſe perceiving in what danger the County was in, did preſently raiſe their Regiments, one of Horſe, and two Regiments of Foot, and thoſe were drawn to <hi>Cogſhall:</hi> from whence they ſent Colonel <hi>Sparrow</hi> with ſome Horſe to fetch the Magazeen from <hi>Braintre</hi> to <hi>Cogſhall,</hi> who diſappointed the E<g ref="char:EOLhyphen"/>nemy of that Store. On Saturday laſt the Enemy marched from <hi>Chelmsford</hi> to the Earl of <hi>VVarwick</hi>'s houſe at <hi>Lees,</hi> where they ſeiſed his Arms, and one great braſſe Saker: from thence on Sunday they marched to <hi>Braintre,</hi> and on Munday to <hi>Colcheſter.</hi> The Generall with four Regiments of Horſe, and five regiments of Foot came to <hi>Chelmsford</hi> on Sun<g ref="char:EOLhyphen"/>day, and on Munday he marched to <hi>Cogſhall,</hi> where the <hi>Eſſex</hi> Forces did attend him; and being thus u<g ref="char:EOLhyphen"/>nited, wee marched towards <hi>Colcheſter;</hi> and drawing neer unto the Town, the Enemy ſallied forth both Horſe and Foot, and poſſeſſed themſelves of the hedges, to hinder our approach; but they were re<g ref="char:EOLhyphen"/>ſolutely charged by the Lord Generals Van, com<g ref="char:EOLhyphen"/>manded by Colonel <hi>Backſted,</hi> Colonel <hi>Needum,</hi> and others, who ſuddenly beat the Enemie from their ground and purſued them into the Town, and ſeven Colours of ours entred with them; but our Horſe, by reaſon the paſſages were ſo ſtrait, could not come in ſoon enough to their aſſiſtance; ſo our men were forced to give back, and the Town gates were clo<g ref="char:EOLhyphen"/>ſed upon them: Yet wee continued the aſſault four or five hours; but finding the Wall where the prin<g ref="char:EOLhyphen"/>cipall aſſault was, to be much ſtronger then was ex<g ref="char:EOLhyphen"/>pected,
+<pb n="5" facs="tcp:161838:3"/>they made a very fair and orderly retreat. We loſt Colonel <hi>Needum,</hi> Captain <hi>Laurence,</hi> and Captain <hi>Cox,</hi> who were much lamented, for they were of eminent deſert, and about 100 private Souldiers. Of the Enemy were ſlain Sir <hi>William Campion</hi> once Governour of Borſtall houſe, and Colonell <hi>Cook</hi> of Kent, and divers others of note, and about foure hundred private Souldiers were taken priſoners by our men; whereof divers Kentiſh men, and ſome French and Walloons that could ſpeak no Engliſh. The Enemy came into <hi>Colcheſter</hi> with about 1000 Horſe and 4000 Foot. On Wed<g ref="char:EOLhyphen"/>neſday the Generall began to provide, that the E<g ref="char:EOLhyphen"/>nemy might not eſcape out of the Town, and for that end ſent for the Suffolk Forces then at <hi>Sudbury</hi> being about 1500 horſe and foot, and with them the paſſes are ſecured about Nayland, Bures, and o<g ref="char:EOLhyphen"/>ther places, and the Suffolk Forces about Ipſwich do keep the paſſe at <hi>Cattaway</hi> Bridge, whereby the Enemy is wholly prevented from getting over into Suffolk; and now we are beginning our iutrench<g ref="char:EOLhyphen"/>ments, and drawing our ſeverall quarters neer unto the Town, and the Enemy within is fortifying, and pulling down the houſes on the wall, but we doubt not but we ſhal ſhortly either ſtarve or ſtorm them.</p>
+            <p>The Generall much deſires to keep the Heads of this great party from making an eſcape with their Horſes; for their intents was to get into <hi>Suffolk,</hi> and <hi>Norfolk,</hi> and other Countries, and to have raiſed the malignant Party as they went, who were ready prepared and the deſigne ripe: the Enemy alſo were raiſing Forces about <hi>Walden</hi> and <hi>Lynton,</hi>
+               <pb n="6" facs="tcp:161838:4"/>where they had gotten together about 500 Horſe and Foot, to ſupppreſſe thoſe the Generall had diſpatched away two troops of his own Horſe and three troops of Collonell <hi>Harlukendons</hi> Regiment, under Colonel <hi>Sparrow,</hi> thoſe troops found the E<g ref="char:EOLhyphen"/>nemy at <hi>Lynton</hi> with about 500 Horſe and Foot un<g ref="char:EOLhyphen"/>der Major <hi>Reinolds,</hi> they routed the Enemy, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook the Major, and a Colonel with a wooden leg, Major <hi>Mu<g ref="char:EOLhyphen"/>ſtamp,</hi> and others they killed. Thus much unto this of 18 <hi>June</hi> 1648.</p>
+            <p>The report is even now that <hi>Goring</hi> is gone to <hi>Cattaway</hi> Bridge, to ſeek his paſſe into <hi>Suffolk,</hi> but they are followed with a party.</p>
+            <p>Sir <hi>Thomas Barna<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> deſired to ſend 500 men to ſecure Harwich. Our men ſcoured the ſtreets, but the main guard of at leaſt one hundred Foot com<g ref="char:EOLhyphen"/>manded by an old Souldier remained ſtill not to be attempted by our men, it being in the Church and Churchyard, who were guarded by ſuch narrow paſſages that it could not be forced without the ap<g ref="char:EOLhyphen"/>parnt hazard of the loſſe of many men. Upon Summons thoſe in the Church entred into a treaty and agreed that the Countrey men ſhould go to their own homes leaving their arms behind them, and ingaging not to bear arms againſt the Parlia<g ref="char:EOLhyphen"/>ment. Many horſes are taken, but few priſoners we being not able to ſurround the Town, and ef<g ref="char:EOLhyphen"/>fect the ſurpriſe too. There were taken for the publick ſtore 100 foot-arms, and neer as many more which our men have amongſt them, 2 colours of foot, 4 drums, and 2 Barrells of powder. This was the ſeventeenth day.</p>
+            <pb n="7" facs="tcp:161838:4"/>
+            <p> The priſoners taken at the entrance of the Sub<g ref="char:EOLhyphen"/>urbs of <hi>Colcheſter</hi> were drawn out. Every thirteenth man of the Eſſex Batchellours are to die, every tenth man of the married men and every fifth of Londoners and Kentiſh men that were ingaged in this new deſigne, the others that are left of Batche<g ref="char:EOLhyphen"/>lours to be ſent beyond the ſeas, and the remainder of the married men to their families.</p>
+            <div type="part">
+               <head>A Liſt of the Priſoners remaining in cuſtody with the Marſhal Generall at <hi>Lexdon,</hi> the 17 of June, 1648.</head>
+               <list>
+                  <item>
+                     <hi>Sir</hi> John Dorrill <hi>of</hi> Cokehall <hi>in</hi> Kent.</item>
+                  <item>Col. <hi>Sir William Leighton.</hi>
+                  </item>
+                  <item>Col. <hi>Francis Clark.</hi>
+                  </item>
+                  <item>Col. Sir <hi>Bernard Skidmore</hi> late Governour of <hi>Hereford</hi> for the King.</item>
+                  <item>Col. <hi>George Rawlins.</hi>
+                  </item>
+                  <item>Lieut. Col. <hi>Thomas Roberts.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Eſquires.</head>
+                        <item>
+                           <hi>Henry Sanders</hi>
+                        </item>
+                        <item>Col. <hi>Sam. Thornton</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Steward</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Capt. <hi>Gregory Baker.</hi>
+                  </item>
+                  <pb n="8" facs="tcp:161838:5"/>
+                  <item> Cap. <hi>Christmas.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Ruthen</hi> ſon to the Lord <hi>Ruthen.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Eſquires.</head>
+                        <item>
+                           <hi>Thomas Roberts</hi>
+                        </item>
+                        <item>
+                           <hi>Carew Rawlins</hi>
+                        </item>
+                        <item>
+                           <hi>Ralfe Britton</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Anderkin</hi>
+                        </item>
+                        <item>
+                           <hi>John Dethicke</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Dinely</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Lieutenant <hi>Thomas Outing</hi>
+                  </item>
+                  <item>Lieutenant <hi>Francis Bland.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Servants to Sir <hi>Bernard Skidmore.</hi>
+                        </head>
+                        <item>
+                           <hi>Maximil. Edwards</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Bridgeman</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>William Woodley,</hi>Servant to Lieut. Col. <hi>Tho<g ref="char:EOLhyphen"/>mas Roberts.</hi>
+                  </item>
+                  <item>324 Common Souldiers</item>
+               </list>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
